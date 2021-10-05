@@ -192,3 +192,45 @@ html{
       margin-left: 25px;
       position: absolute;
     }
+    .fotofamillie{
+      width: 20%;
+      height: auto;
+      margin-left: 160px;
+      margin-top: 40px;
+      position:absolute ;
+    }
+    .fotoceline{
+      width: 17%;
+      height: auto;
+      margin-left: 1000px;
+      margin-top: 25px;
+      position: absolute;
+    }
+    .fotosharon{
+      width: 17%;
+      height: auto;
+      margin-left: 470px;
+      margin-top: 100px;
+      position: absolute;
+    }
+    .fotoscooter{
+      width: 17%;
+      height: auto;
+      margin-left: 735px;
+      margin-top: 100px;
+      position: absolute;
+    }
+    .fotoik{
+      width: 20%;
+      height: auto;
+      margin-left: 160px;
+      margin-top: 275px;
+      position: absolute;
+    }
+    .fotohond{
+      width: 17%;
+      height: auto;
+      margin-left: 1265px;
+      margin-top: 25px;
+      position: absolute;
+    }
